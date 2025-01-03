@@ -7,3 +7,9 @@ git add .\index.html
 git commit -m "เพิ่มbootstrap-index"
 git add .\index.html
 git commit -m "เพิ่มlogo-index"  
+git add .
+git commit -m "เพิ่มcarousel"
+git add .\index.html
+git commit -m "เพิ่มfooter-index"
+git add .\content.html
+git commit -m "เพิ่มbootstrap-content"
