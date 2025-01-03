@@ -19,3 +19,7 @@ git add .\css\style.css
 git commit -m "เพิ่มgrid-content"
 git add .\content.html
 git commit -m "เพิ่มfooter-content"
+git add .
+git commit -m "เพิ่มbootstrap-contact"
+git add .
+git commit -m "แก้เนื้อหา-contact"
